@@ -25,4 +25,6 @@
     * [win98.jpg](https://mute23-code.github.io/blogImage/chess/win98.jpg)
     * [winbw.jpg](https://mute23-code.github.io/blogImage/chess/winbw.jpg)
     * [winxp.jpg](https://mute23-code.github.io/blogImage/chess/winxp.jpg)
-  
+  * codeNote
+    * [demo-note.jpg](https://mute23-code.github.io/blogImage/codeNote/demo-note.jpg)
+   
