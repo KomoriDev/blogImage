@@ -28,5 +28,5 @@
   * codeNote
     * [demoNote.jpg](https://mute23-code.github.io/blogImage/codeNote/demoNote.jpg)
   * imageBuild
-    * [demo.jpg](https://mute23-code.github.io/blogImage/imageBuild/demo.jpg)
-    * [demo(build).jpg](https://mute23-code.github.io/blogImage/imageBuild/demo(build).jpg)
+    * [demo.jpg](https://mute23-code.github.io/blogImage/imageBuild-demo/demo.jpg)
+    * [demo(build).jpg](https://mute23-code.github.io/imageBuild-demo/imageBuild/demo(build).jpg)
